@@ -1,0 +1,8 @@
+plugin_description: "@ncatboy4ik | Synchronizes and displays user and channel badges from exDesktop"
+settings_title: "exDesktop Badges Sync"
+settings_interval: "Sync interval (minutes)"
+settings_interval_sub: "Periodic update interval while app is open"
+settings_sync_now: "Sync Now"
+settings_sync_cached: "Loaded: {users} users, {channels} channels"
+sync_success: "Badges updated successfully! Loaded {users} users and {channels} channels."
+sync_error: "Sync error: {error}"

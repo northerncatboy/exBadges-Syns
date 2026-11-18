@@ -1,0 +1,9 @@
+id: exd_badges_sync
+name: exDesktop Badges Sync
+description: "{plugin_description}"
+author: northerncatboy
+version: "1.0.0"
+icon: exteraPlugins/1
+app_version: ">=12.10.6"
+sdk_version: ">=1.4.5.3"
+requirements: "requests"

@@ -1,0 +1,8 @@
+plugin_description: "@ncatboy4ik | Синхронизирует и отображает значки пользователей и каналов из exDesktop"
+settings_title: "Синхронизация значков exDesktop"
+settings_interval: "Интервал обновления (в минутах)"
+settings_interval_sub: "Периодичность проверки в фоне"
+settings_sync_now: "Синхронизировать сейчас"
+settings_sync_cached: "Загружено: {users} пользователей, {channels} каналов"
+sync_success: "Значки успешно обновлены! Загружено {users} пользователей и {channels} каналов."
+sync_error: "Ошибка синхронизации: {error}"
